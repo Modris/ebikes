@@ -1,0 +1,124 @@
+html{
+width:100%;
+height:100%;
+margin:0px;
+padding:0px;
+}
+body{
+background-color:DimGrey;
+margin:0;
+padding:0px;
+}
+header{
+position: fixed;
+background-color:HoneyDew;
+width:100%;
+height:65px;
+top:0px;
+left:0px;
+float:left;
+text-align:center;
+}
+h1{
+	text-align:center;
+	font-size:36;
+}
+.table1{
+	text-align:center;
+	font-size:24;
+	width:75%;
+	height:40%;
+}
+.centerText{
+	padding:1em;
+text-align:left;
+font-size:24;
+position:relative;
+left:25%;
+width:50%;
+background-color:white;
+height:auto;
+}
+
+.centerText h1{
+	
+}
+
+footer{
+position: fixed;
+background-color:DimGrey;
+text-align:center;
+bottom:0px;
+left:0px;
+height:20px;
+width:100%;
+float:left;
+}
+
+nav {
+     margin-top: 65x;
+}
+     .nav5 ul {
+  font-family: Tahoma;
+  text-align: center;
+  padding: 20px;
+  font-size: 30px;
+  display: inline;
+
+
+}
+
+ .nav5 ul li {
+	 top:0.3em;
+		padding:0.6em;
+        display: inline;
+        position: relative;
+    }
+ .nav5  ul ul{
+      position: absolute;
+        left: 0;
+        display: none;
+		background-color:HoneyDew;
+    }
+     .nav5 ul li a:hover{
+         color: #fff;
+    background-color: #369;
+    
+    }
+ .nav5 ul li a:hover{
+         color: #fff;
+    background-color: #369;
+    }
+     .nav5 ul li:hover ul {
+		 top:1.7em;
+        display: inline-block;
+		width:500px;
+    }
+    .nav5 ul ul li {
+    display: inline-block;
+  padding: 10px;
+  margin-right: 10px;
+  width: auto;
+}
+
+
+div#mainPageCenter{
+position:absolute;
+top:30%;
+width:100%;
+text-align:center;
+}
+
+#center{
+font-size:50;
+position:relative;
+background-color: Grey ;
+color:LightPink    ;
+text-align:center;
+width:400px;
+opacity:0.8;
+left:38%;
+height:180px;
+border-style:inset;
+border-width:5px;
+}

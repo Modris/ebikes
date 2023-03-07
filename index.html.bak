@@ -1,0 +1,109 @@
+<html>
+<head>
+	<link rel="stylesheet" href="stylesheet.css"> 
+</head>
+ <body>
+<nav></nav>
+	<section id ="mainPage">
+	</section>
+	<aside>
+		<article>
+			<img width="100%" height="90%" src="images/bosch.jpg" alt "Bosch Ebike">
+			<div id = "mainPageCenter"> <h1 id="center"> Ebikes Will Change The World. </h1>  </div>
+			<article class="centerText"> 
+			<section id="1ab">
+				<h1> What's the fuss? </h1>
+					<p> The global market for electric bicycles, or ebikes, is rapidly expanding with an estimated 130 million units expected to be sold between 2020 and 2023. In comparison, electric cars are projected to reach approximately 30 million units during the same period, while electric motorcycles are only expected to reach around 0.4 million units. 
+					</p>
+					<p> So, why are ebikes becoming so dominant globally? It's a logical step forward in terms of cost, convenience, and efficiency. In the United States alone, more than half of all trips taken in 2021, regardless of transportation mode, were less than 5 kilometers. This is a distance that can easily be covered on an ebike, and taking a car for such a short distance doesn't make sense when considering the associated costs.
+					</p>
+			</section>
+						<section id="2ab">
+				<h1> Rough Cost Analysis </h1>
+				<p> While the cost of purchasing an ebike can be a deterrent for some, it's important to consider the long-term savings in comparison to owning and operating a car.
+				</p>
+				<p> When owning a car, expenses include gas, maintenance, insurance, and parking fees, which can add up to several thousand euros per year. In comparison, the yearly expenses for an ebike are significantly lower, with costs mainly consisting of electricity for charging and occasional maintenance.
+				</p>
+				<p> t's important to note that the cost-effectiveness of an ebike can vary depending on factors such as location, commute distance, and individual lifestyle. However, in many cases, the long-term savings of an ebike can outweigh the upfront cost.
+				</p>
+	<table class= "table1" border=3px; cellspacing = 0; align="center">
+	<tr>
+		<th> </th>
+		<th> Ebike </th>
+		<th> Car</th>
+	</tr>
+	<tr>
+		<td> Tax: </td>
+        <td> 0€ </td>
+        <td> 100-375€</td> 
+	</tr>
+    <tr>
+        <td> Insurance: </td>
+        <td> 0€ </td>
+        <td> 100€</td> 
+	</tr>
+     <tr>
+		<td> Servicing: </td>
+        <td> 30€ </td>
+        <td> 180€</td> 
+	</tr>
+    <tr>
+		<td> Parts: </td>
+        <td> 100€ </td>
+        <td> 650€</td> 
+	</tr>
+    <tr>
+		<td> Fuel: </td>
+        <td> 30€ </td>
+        <td> 1500€</td> 
+	</tr>
+     <tr> 
+         <td> Total Costs: </td>
+         <td> 160€ </td>
+         <td> 2530€ </td>
+        </tr>
+	</table>
+	</section> 
+	<section id="3ab">
+				<h1> Ebikes: The Revolutionary Way to Improve Your Commute </h1>
+					<p> For many people in the United States, commuting often involves sitting in traffic for long periods of time or relying on public transportation. The bicycle, while a great form of exercise, is often viewed as inconvenient for transportation purposes, especially when faced with hills or hot weather. Enter the electric bike, or ebike, a revolutionary mode of transport that makes commuting easier and more efficient than ever before.
+					</p>
+					<p> With an ebike, the effort required to ride uphill or through hot weather is greatly reduced or even eliminated entirely. This makes commuting on an ebike a more pleasant experience, as you no longer have to worry about arriving at your destination sweaty or exhausted. Even better, the ease of riding an ebike means that longer distances can be covered without the same level of exertion required on a traditional bike.
+					</p>
+					<p> Ebikes are also a great alternative to cars for short to medium distance trips, as they are faster than traditional bicycles and can easily navigate through congested areas. And with the added assistance from the electric motor, commuting on an ebike is not only efficient but also more environmentally friendly than driving a car.
+					</p>
+					<img  width=100%; height=60%; src="/images/uphill.jpg">
+					</section>
+					<section id ="4ab">
+				<h1> Availability </h1>
+				<p> One of the greatest benefits of ebikes is their accessibility. For individuals with disabilities, knee problems, or those who are unfit or inactive, operating a traditional bicycle can be a challenge. However, with the assistance of an electric motor, ebikes open up a new world of possibilities for these individuals.
+				</p> 
+				<p> The added assistance from the electric motor makes it easier for individuals to pedal and navigate through various terrains, including hills and headwinds. This allows individuals who may not have been able to ride a traditional bicycle to enjoy the benefits of cycling and access new journeys and experiences that were previously unavailable.
+				</p>
+				<p> Furthermore, for individuals who may not be able to afford a car or the associated costs, such as gas and maintenance, ebikes offer a cost-effective and reliable alternative for transportation. This can greatly improve their mobility and quality of life.
+				</p>
+				<p> In addition, ebikes can be a great option for older individuals who may have lost some of their physical abilities but still want to maintain an active lifestyle. The added assistance from the electric motor allows them to keep up with younger riders and enjoy cycling without the physical strain that comes with riding a traditional bicycle.
+				</p>
+				</section> 
+		 </article>
+		</article>
+	</aside>
+  <footer> <div style="font-size:18"> All Rights Reserved by Modris </div> </footer>
+  </body>
+<header> 
+	<img style="float:left;" height="70" width="70" src="images/log4.png"> 
+	<div class = "nav5">
+	<ul> 
+		<li id ="57"> <a href="#"> Table Of Contents </a>
+			<ul> <li> <a href="#1ab"> What's the fuss? </a> </li>
+			<li> <a href="#2ab">Rough Cost Analysis</a> </li>
+			<li> <a href="#3ab">Ebikes: The Revolutionary Way to Improve Your Commute</a> </li>
+			<li> <a href="#4ab">Availability </a> </li> 
+			</ul>
+		<li> <a href="#mainPage"> Main Page </a> </li>
+		<li> <a href="header stories/myStory.html"> My Story</a> </li>
+		 <li> <a href="header stories/ebikeTypes.html">Ebike Types</a> </li>
+	</ul>
+	</div>
+	</header>
+</html>
