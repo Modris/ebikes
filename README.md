@@ -1,3 +1,3 @@
-Visit Modris.github.io/modris2
+Visit https://modris.github.io/ebikes/
 
 CSS + HTML
